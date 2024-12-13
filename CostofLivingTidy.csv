@@ -1,25 +1,25 @@
-﻿region,single_person,family 
-North East,1000 ,1500 
-North East,2300 ,3300 
-North West,1200 ,1700 
-North West,2500 ,3500 
-Yorkshire and The Humber,1100 ,1600 
-Yorkshire and The Humber,2400 ,3400 
-East Midlands,1200 ,1700 
-East Midlands,2500 ,3500 
-West Midlands,1200 ,1700 
-West Midlands,2500 ,3500 
-East of England,1500 ,2000 
-East of England,3000 ,4000 
-London,1800 ,2300 
-London,3500 ,4500 
-South East,1500 ,2000 
-South East,3000 ,4000 
-South West,1400 ,1900 
-South West,2800 ,3800 
-Wales,1100 ,1600 
-Wales,2400 ,3400 
-Scotland,1200 ,1700 
-Scotland,2500 ,3500 
-Northern Ireland,1000 ,1500 
-Northern Ireland,2300 ,3300 
+﻿region,single_person,family ,ave
+North East,1000 ,1500 ,1250 
+North East,2300 ,3300 ,2800 
+North West,1200 ,1700 ,1450 
+North West,2500 ,3500 ,3000 
+Yorkshire and The Humber,1100 ,1600 ,1350 
+Yorkshire and The Humber,2400 ,3400 ,2900 
+East Midlands,1200 ,1700 ,1450 
+East Midlands,2500 ,3500 ,3000 
+West Midlands,1200 ,1700 ,1450 
+West Midlands,2500 ,3500 ,3000 
+East of England,1500 ,2000 ,1750 
+East of England,3000 ,4000 ,3500 
+London,1800 ,2300 ,2050 
+London,3500 ,4500 ,4000 
+South East,1500 ,2000 ,1750 
+South East,3000 ,4000 ,3500 
+South West,1400 ,1900 ,1650 
+South West,2800 ,3800 ,3300 
+Wales,1100 ,1600 ,1350 
+Wales,2400 ,3400 ,2900 
+Scotland,1200 ,1700 ,1450 
+Scotland,2500 ,3500 ,3000 
+Northern Ireland,1000 ,1500 ,1250 
+Northern Ireland,2300 ,3300 ,2800 
