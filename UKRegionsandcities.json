@@ -2,7 +2,7 @@
 	"transform":{"scale":[0.0003269171373097439,0.00019749782697551767],"translate":[-8.643627725778185,49.86526744324929]},"objects":{"regions":{"type":"GeometryCollection","geometries":
 		[{"arcs":[[0,1,2,3]],"type":"Polygon","properties":{"eer17cd":"E15000001","id":"North East","bng_e":417313,"bng_n":600358,"long":-1.7289,"lat":55.297031}},
 			{"arcs":[[8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,-2]],"type":"Polygon","properties":{"eer17cd":"E15000002","id":"North West","bng_e":350015,"bng_n":506280,"long":-2.77237,"lat":54.449451}},
-			{"arcs":[[[25,-9,-1,26]],[[27,28]]],"type":"MultiPolygon","properties":{"eer17cd":"E15000003","id":"Yorkshire and The Humber","bng_e":446903,"bng_n":448736,"long":-1.28712,"lat":53.93264}},
+			{"arcs":[[[25,-9,-1,26]],[[27,28]]],"type":"MultiPolygon","properties":{"eer17cd":"E15000003","id":"Yorkshire and the Humber","bng_e":446903,"bng_n":448736,"long":-1.28712,"lat":53.93264}},
 			{"arcs":[[[29,30,31,32,-10,-26,33,-28]],[[34,35]]],"type":"MultiPolygon","properties":{"eer17cd":"E15000004","id":"East Midlands","bng_e":477660,"bng_n":322635,"long":-0.84967,"lat":52.795719}},
 			{"arcs":[[36,37,38,-11,-33]],"type":"Polygon","properties":{"eer17cd":"E15000005","id":"West Midlands","bng_e":386294,"bng_n":295477,"long":-2.20358,"lat":52.556969}},
 			{"arcs":[[39,40,-31,41,-35,42]],"type":"Polygon","properties":{"eer17cd":"E15000006","id":"East of England","bng_e":571074,"bng_n":263229,"long":0.504146,"lat":52.240669}},
