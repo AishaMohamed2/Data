@@ -5,7 +5,7 @@
 			{"arcs":[[[25,-9,-1,26]],[[27,28]]],"type":"MultiPolygon","properties":{"eer17cd":"E15000003","id":"Yorkshire and The Humber","bng_e":446903,"bng_n":448736,"long":-1.28712,"lat":53.93264}},
 			{"arcs":[[[29,30,31,32,-10,-26,33,-28]],[[34,35]]],"type":"MultiPolygon","properties":{"eer17cd":"E15000004","id":"East Midlands","bng_e":477660,"bng_n":322635,"long":-0.84967,"lat":52.795719}},
 			{"arcs":[[36,37,38,-11,-33]],"type":"Polygon","properties":{"eer17cd":"E15000005","id":"West Midlands","bng_e":386294,"bng_n":295477,"long":-2.20358,"lat":52.556969}},
-			{"arcs":[[39,40,-31,41,-35,42]],"type":"Polygon","properties":{"eer17cd":"E15000006","id":"Eastern","bng_e":571074,"bng_n":263229,"long":0.504146,"lat":52.240669}},
+			{"arcs":[[39,40,-31,41,-35,42]],"type":"Polygon","properties":{"eer17cd":"E15000006","id":"East of England","bng_e":571074,"bng_n":263229,"long":0.504146,"lat":52.240669}},
 			{"arcs":[[43,44,-40]],"type":"Polygon","properties":{"eer17cd":"E15000007","id":"London","bng_e":517516,"bng_n":178392,"long":-0.30864,"lat":51.492271}},
 			{"arcs":[[[45,-37,-32,-41,-45,46]],[[47]],[[48]]],"type":"MultiPolygon","properties":{"eer17cd":"E15000008","id":"South East","bng_e":470062,"bng_n":172924,"long":-0.99311,"lat":51.45097}},
 			{"arcs":[[-46,49,50,-38]],"type":"Polygon","properties":{"eer17cd":"E15000009","id":"South West","bng_e":285015,"bng_n":102567,"long":-3.63343,"lat":50.811192}},
