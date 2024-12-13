@@ -1,4 +1,4 @@
-﻿year,code,name,region ,internal_migration_inflow,internal_migration_outflow,internal_migration_net,International Migration Inflow,International Migration Outflow,International Migration Net,Estimated Population ,0-12 population,13-19 population,20-39 population,40-59 population,60+ population
+﻿year,code,name,region,internal_migration_inflow,internal_migration_outflow,internal_migration_net,international_migration_inflow,international_migration_outflow,international_migration_net,estimated_population,population_0_12,population_13_19,population_20_39,population_40_59,population_60_plus
 2018,E06000047,County Durham,North East,21282,19413,1869,2828,637,2191,526980,74715,39987,130029,140168,142081
 2018,E06000005,Darlington,North East,4223,4172,51,355,186,169,106566,16482,8151,24938,29036,27959
 2018,E06000001,Hartlepool,North East,2837,2831,6,292,58,234,93242,14758,7288,22868,24735,23593
