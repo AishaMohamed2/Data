@@ -1,11 +1,59 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [-1.5703, 54.7625]
+  "type": "Topology",
+  "arcs": [
+    [[24010, 23763], [-264, -311], ...], 
+    ... // the region arcs go here
+  ],
+  "transform": {
+    "scale": [0.0003269171373097439, 0.00019749782697551767],
+    "translate": [-8.643627725778185, 49.86526744324929]
   },
-  "properties": {
-    "name": "County Durham",
-    "description": "A historic county in the northeast of England."
+  "objects": {
+    "regions": {
+      "type": "GeometryCollection",
+      "geometries": [
+        {
+          "arcs": [[0,1,2,3]],
+          "type": "Polygon",
+          "properties": {
+            "eer17cd": "E15000001",
+            "id": "North East",
+            "bng_e": 417313,
+            "bng_n": 600358,
+            "long": -1.7289,
+            "lat": 55.297031
+          }
+        },
+        ... // other regions
+      ]
+    },
+    "cities": {
+      "type": "GeometryCollection",
+      "geometries": [
+        {
+          "arcs": [[5,6]], 
+          "type": "Point", 
+          "properties": {
+            "name": "Newcastle",
+            "population": 148000,
+            "id": "city001",
+            "lat": 54.9783,
+            "long": -1.6174
+          }
+        },
+        {
+          "arcs": [[2,3]],
+          "type": "Point",
+          "properties": {
+            "name": "Durham",
+            "population": 53000,
+            "id": "city002",
+            "lat": 54.7754,
+            "long": -1.5845
+          }
+        }
+      ]
+    }
   }
 }
+
