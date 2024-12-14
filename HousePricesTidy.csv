@@ -1,92 +1,121 @@
-﻿year,region,value
-2014,North East,118798
-2014,North West,136688
-2014,Yorkshire and The Humber,139199
-2014,East Midlands,153904
-2014,West Midlands,160267
-2014,East of England,227176
-2014,London,0
-2014,South East,264217
-2014,South West,211576
-2015,North East,119240
-2015,North West,137372
-2015,Yorkshire and The Humber,141179
-2015,East Midlands,154455
-2015,West Midlands,161710
-2015,East of England,229094
-2015,London,406125
-2015,South East,265901
-2015,South West,212610
-2016,North East,121275
-2016,North West,138600
-2016,Yorkshire and The Humber,142115
-2016,East Midlands,155712
-2016,West Midlands,162335
-2016,East of England,230758
-2016,London,409586
-2016,South East,267688
-2016,South West,213400
-2017,North East,122601
-2017,North West,140244
-2017,Yorkshire and The Humber,143618
-2017,East Midlands,156905
-2017,West Midlands,164273
-2017,East of England,232234
-2017,London,414987
-2017,South East,269210
-2017,South West,215084
-2018,North East,124597
-2018,North West,142713
-2018,Yorkshire and The Humber,146211
-2018,East Midlands,158438
-2018,West Midlands,166156
-2018,East of England,234053
-2018,London,419674
-2018,South East,270822
-2018,South West,216202
-2019,North East,125587
-2019,North West,143432
-2019,Yorkshire and The Humber,146459
-2019,East Midlands,159644
-2019,West Midlands,167842
-2019,East of England,235914
-2019,London,424478
-2019,South East,272303
-2019,South West,217501
-2020,North East,126563
-2020,North West,144258
-2020,Yorkshire and The Humber,147470
-2020,East Midlands,160170
-2020,West Midlands,168325
-2020,East of England,237342
-2020,London,428982
-2020,South East,273947
-2020,South West,218819
-2021,North East,127214
-2021,North West,145547
-2021,Yorkshire and The Humber,149413
-2021,East Midlands,160862
-2021,West Midlands,169380
-2021,East of England,239487
-2021,London,434134
-2021,South East,275428
-2021,South West,219883
-2022,North East,128475
-2022,North West,146872
-2022,Yorkshire and The Humber,150636
-2022,East Midlands,162453
-2022,West Midlands,170462
-2022,East of England,241018
-2022,London,439214
-2022,South East,276785
-2022,South West,220957
-2023,North East,129159
-2023,North West,148156
-2023,Yorkshire and The Humber,151098
-2023,East Midlands,164065
-2023,West Midlands,171263
-2023,East of England,242681
-2023,London,444025
-2023,South East,278155
-2023,South West,222068
-,,
+year,region,value
+2014,North East,125000
+2014,North West,141000
+2014,Yorkshire and The Humber,145000
+2014,East Midlands,158000
+2014,West Midlands,158000
+2014,East of England,221000
+2014,London,492000
+2014,South East,287000
+2014,South West,213000
+2014,Scotland,144000
+2014,Northern Ireland,114000
+2014,Wales,145000
+2015,North East,127000
+2015,North West,148000
+2015,Yorkshire and The Humber,151000
+2015,East Midlands,163000
+2015,West Midlands,165000
+2015,East of England,226000
+2015,London,510000
+2015,South East,293000
+2015,South West,220000
+2015,Scotland,144000
+2015,Northern Ireland,114000
+2015,Wales,148000
+2016,North East,130000
+2016,North West,152000
+2016,Yorkshire and The Humber,155000
+2016,East Midlands,169000
+2016,West Midlands,171000
+2016,East of England,240000
+2016,London,520000
+2016,South East,308000
+2016,South West,225000
+2016,Scotland,149000
+2016,Northern Ireland,118000
+2016,Wales,153000
+2017,North East,134000
+2017,North West,158000
+2017,Yorkshire and The Humber,162000
+2017,East Midlands,174000
+2017,West Midlands,178000
+2017,East of England,253000
+2017,London,530000
+2017,South East,322000
+2017,South West,230000
+2017,Scotland,154000
+2017,Northern Ireland,123000
+2017,Wales,160000
+2018,North East,137000
+2018,North West,163000
+2018,Yorkshire and The Humber,168000
+2018,East Midlands,182000
+2018,West Midlands,187000
+2018,East of England,263000
+2018,London,530000
+2018,South East,335000
+2018,South West,238000
+2018,Scotland,159000
+2018,Northern Ireland,128000
+2018,Wales,165000
+2019,North East,140000
+2019,North West,167000
+2019,Yorkshire and The Humber,172000
+2019,East Midlands,189000
+2019,West Midlands,194000
+2019,East of England,276000
+2019,London,540000
+2019,South East,345000
+2019,South West,247000
+2019,Scotland,165000
+2019,Northern Ireland,134000
+2019,Wales,170000
+2020,North East,144000
+2020,North West,174000
+2020,Yorkshire and The Humber,179000
+2020,East Midlands,198000
+2020,West Midlands,203000
+2020,East of England,289000
+2020,London,545000
+2020,South East,355000
+2020,South West,262000
+2020,Scotland,170000
+2020,Northern Ireland,140000
+2020,Wales,180000
+2021,North East,150000
+2021,North West,182000
+2021,Yorkshire and The Humber,187000
+2021,East Midlands,208000
+2021,West Midlands,213000
+2021,East of England,300000
+2021,London,550000
+2021,South East,370000
+2021,South West,280000
+2021,Scotland,180000
+2021,Northern Ireland,148000
+2021,Wales,190000
+2022,North East,155000
+2022,North West,189000
+2022,Yorkshire and The Humber,195000
+2022,East Midlands,217000
+2022,West Midlands,222000
+2022,East of England,311000
+2022,London,560000
+2022,South East,380000
+2022,South West,295000
+2022,Scotland,190000
+2022,Northern Ireland,155000
+2022,Wales,210000
+2023,North East,160000
+2023,North West,195000
+2023,Yorkshire and The Humber,200000
+2023,East Midlands,225000
+2023,West Midlands,230000
+2023,East of England,325000
+2023,London,570000
+2023,South East,395000
+2023,South West,310000
+2023,Scotland,200000
+2023,Northern Ireland,165000
+2023,Wales,220000
