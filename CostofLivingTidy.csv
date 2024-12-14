@@ -1,25 +1,27 @@
-﻿region,single_person,family ,ave
-North East,1000 ,1500 ,1250 
-North East,2300 ,3300 ,2800 
-North West,1200 ,1700 ,1450 
-North West,2500 ,3500 ,3000 
-Yorkshire and The Humber,1100 ,1600 ,1350 
-Yorkshire and The Humber,2400 ,3400 ,2900 
-East Midlands,1200 ,1700 ,1450 
-East Midlands,2500 ,3500 ,3000 
-West Midlands,1200 ,1700 ,1450 
-West Midlands,2500 ,3500 ,3000 
-East of England,1500 ,2000 ,1750 
-East of England,3000 ,4000 ,3500 
-London,1800 ,2300 ,2050 
-London,3500 ,4500 ,4000 
-South East,1500 ,2000 ,1750 
-South East,3000 ,4000 ,3500 
-South West,1400 ,1900 ,1650 
-South West,2800 ,3800 ,3300 
-Wales,1100 ,1600 ,1350 
-Wales,2400 ,3400 ,2900 
-Scotland,1200 ,1700 ,1450 
-Scotland,2500 ,3500 ,3000 
-Northern Ireland,1000 ,1500 ,1250 
-Northern Ireland,2300 ,3300 ,2800 
+﻿region,single_person,family,income
+North East,1250 ,2300 ,23436
+North West,1450 ,3000 ,24396
+Yorkshire and The Humber,1350 ,2900 ,23894
+East Midlands,1450 ,3000 ,24111
+West Midlands,1450 ,3000 ,24711
+East of England,1750 ,3500 ,24983
+London,2050 ,4000,35000
+South East,1750 ,3500,27100
+South West,1650 ,3300,23736
+Wales,1350 ,2400,23545
+Scotland,1450 ,3000,25668
+Northern Ireland,1250 ,2800,23289
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
