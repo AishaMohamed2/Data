@@ -38,12 +38,12 @@ year,age_group,primary_occupation,percent
 2018,25-34,Finance,4
 2018,25-34,Management,4
 2018,25-34,Education,2
-2018,25-34,Professional Services,2
+2018,25-34,Professional Serv,ices 2
 2019,25-34,IT Professional,8
 2019,25-34,Finance,6
 2019,25-34,Marketing,4
 2019,25-34,Management,4
-2019,25-34,Professional Services,2
+2019,25-34,Professional Serv,ices 2
 2020,25-34,IT Professional,45
 2020,25-34,Finance,12
 2020,25-34,Management,8
@@ -57,7 +57,7 @@ year,age_group,primary_occupation,percent
 2022,25-34,IT Professional,35
 2022,25-34,Marketing,10
 2022,25-34,Finance,8
-2022,25-34,Professional Services,6
+2022,25-34,Professional Serv,ices 6
 2022,25-34,Education,5
 2023,25-34,IT Professional,30
 2023,25-34,Finance,10
@@ -68,7 +68,7 @@ year,age_group,primary_occupation,percent
 2024,25-34,Finance,8
 2024,25-34,Education,5
 2024,25-34,Management,6
-2024,25-34,Professional Services,4
+2024,25-34,Professional Serv,ices 4
 2018,35-44,IT Professional,7
 2018,35-44,Finance,5
 2018,35-44,Management,5
@@ -77,7 +77,7 @@ year,age_group,primary_occupation,percent
 2019,35-44,IT Professional,10
 2019,35-44,Finance,7
 2019,35-44,Management,6
-2019,35-44,Professional Services,4
+2019,35-44,Professional Serv,ices 4
 2019,35-44,Marketing,3
 2020,35-44,IT Professional,12
 2020,35-44,Finance,40
@@ -87,7 +87,7 @@ year,age_group,primary_occupation,percent
 2021,35-44,IT Professional,10
 2021,35-44,Finance,20
 2021,35-44,Management,6
-2021,35-44,Professional Services,5
+2021,35-44,Professional Serv,ices 5
 2021,35-44,Consulting,7
 2022,35-44,IT Professional,10
 2022,35-44,Finance,15
@@ -113,7 +113,7 @@ year,age_group,primary_occupation,percent
 2019,45-54,Finance,6
 2019,45-54,Management,7
 2019,45-54,Education,5
-2019,45-54,Professional Services,4
+2019,45-54,Professional Serv,ices 4
 2020,45-54,IT Professional,5
 2020,45-54,Finance,7
 2020,45-54,Management,35
@@ -123,54 +123,54 @@ year,age_group,primary_occupation,percent
 2021,45-54,Finance,10
 2021,45-54,Management,20
 2021,45-54,Education,8
-2021,45-54,Professional Services,5
+2021,45-54,Professional Serv,ices 5
 2022,45-54,IT Professional,4
 2022,45-54,Finance,8
 2022,45-54,Management,25
 2022,45-54,Education,7
-2022,45-54,Professional Services,5
+2022,45-54,Professional Serv,ices 5
 2023,45-54,IT Professional,5
 2023,45-54,Finance,7
 2023,45-54,Management,22
 2023,45-54,Education,10
-2023,45-54,Professional Services,3
+2023,45-54,Professional Serv,ices 3
 2024,45-54,IT Professional,4
 2024,45-54,Finance,6
 2024,45-54,Management,20
 2024,45-54,Education,6
-2024,45-54,Professional Services,4
+2024,45-54,Professional Serv,ices 4
 2018,55-70,IT Professional,4
 2018,55-70,Finance,3
 2018,55-70,Management,4
 2018,55-70,Education,5
-2018,55-70,Professional Services,2
+2018,55-70,Professional Serv,ices 2
 2019,55-70,IT Professional,5
 2019,55-70,Finance,4
 2019,55-70,Management,5
 2019,55-70,Education,6
-2019,55-70,Professional Services,4
+2019,55-70,Professional Serv,ices 4
 2020,55-70,IT Professional,6
 2020,55-70,Finance,7
 2020,55-70,Management,25
 2020,55-70,Education,8
-2020,55-70,Professional Services,5
+2020,55-70,Professional Serv,ices 5
 2021,55-70,IT Professional,6
 2021,55-70,Finance,10
 2021,55-70,Management,20
 2021,55-70,Education,8
-2021,55-70,Professional Services,5
+2021,55-70,Professional Serv,ices 5
 2022,55-70,IT Professional,4
 2022,55-70,Finance,8
 2022,55-70,Management,25
 2022,55-70,Education,7
-2022,55-70,Professional Services,5
+2022,55-70,Professional Serv,ices 5
 2023,55-70,IT Professional,5
 2023,55-70,Finance,7
 2023,55-70,Management,22
 2023,55-70,Education,10
-2023,55-70,Professional Services,3
+2023,55-70,Professional Serv,ices 3
 2024,55-70,IT Professional,4
 2024,55-70,Finance,6
 2024,55-70,Management,20
 2024,55-70,Education,6
-2024,55-70,Professional Services,4
+2024,55-70,Professional Serv,ices 4
